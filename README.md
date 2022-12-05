@@ -1,5 +1,5 @@
-# [Hi, I'm Mazedur Rahman Pranto 👋](https://mrpranto.github.io/cv/)
-### 👨‍💻 [Full Stack Web Application Developer.](https://mrpranto.github.io/cv/)
+# <a href="https://mrpranto.github.io/cv/" target="_blank"> Hi, I'm Mazedur Rahman Pranto 👋</a>
+### <a href="https://mrpranto.github.io/cv/" target="_blank"> 👨‍💻 Full Stack Web Application Developer.</a>
 
 
 I'm a full stack professional web developer with 5+ years experience in building high quality sites and web applications. In the past 5 years of work experience, I worked by myself and in agile teams which helped me a lot to develop strong skills in the web development environment/architectures and about the design of RESTful APIs.Besides that,I learnt about Clean Code,TDD and Design Patterns.
