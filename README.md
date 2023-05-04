@@ -8,6 +8,7 @@ I’m currently employed as a web apps developer at ITclanbd. I’m hands-on in 
 
 I am passionate about clean code practices, privacy, best practices, user experience, and developer experience.
 
+#### [CV](https://mrpranto.github.io/cv/)
 
 ### Languages
 - PHP 
