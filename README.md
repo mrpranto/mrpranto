@@ -2,7 +2,7 @@
 ### 👨‍💻 [Full Stack Web Application Developer.](https://mrpranto.github.io/cv/)
 
 
-Results-driven software engineer with over 5 years of experience in PHP development, specializing in Laravel for 4+ years and Vue.js for 3+ years. Adept at building scalable, high-performance web applications with modern JavaScript frameworks, including 7 months of hands-on experience with React.js. Passionate about writing clean, maintainable code and continuously improving development processes to enhance efficiency and user experience. Seeking opportunities to leverage my expertise in full-stack development to contribute to innovative projects and drive business growth.
+Results-driven software engineer with over 5 years of experience in PHP development, specializing in Laravel for 5+ years and Vue.js for 3+ years. Adept at building scalable, high-performance web applications with modern JavaScript frameworks, including 7 months of hands-on experience with React.js. Passionate about writing clean, maintainable code and continuously improving development processes to enhance efficiency and user experience. Seeking opportunities to leverage my expertise in full-stack development to contribute to innovative projects and drive business growth.
 
 #### [View Resume](https://mrpranto.github.io/cv/)
 
