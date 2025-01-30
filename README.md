@@ -2,17 +2,14 @@
 ### 👨‍💻 [Full Stack Web Application Developer.](https://mrpranto.github.io/cv/)
 
 
-I'm a full stack professional web developer with 4+ years experience in building high quality sites and web applications. In the past 4 years of work experience, I worked by myself and in agile teams which helped me a lot to develop strong skills in the web development environment/architectures and about the design of RESTful APIs.Besides that,I learnt about Clean Code,TDD and Design Patterns.
-
-I’m currently employed as a web apps developer at ITclanbd. I’m hands-on in all stages of the software development cycle, from planning and design to testing and deployment. No two days are the same for me, my tasks may involve analyzing algorithms, altering code, fixing bugs, brainstorming ideas, or integrating new systems.
-
-I am passionate about clean code practices, privacy, best practices, user experience, and developer experience.
+Results-driven software engineer with over 5 years of experience in PHP development, specializing in Laravel for 4+ years and Vue.js for 3+ years. Adept at building scalable, high-performance web applications with modern JavaScript frameworks, including 7 months of hands-on experience with React.js. Passionate about writing clean, maintainable code and continuously improving development processes to enhance efficiency and user experience. Seeking opportunities to leverage my expertise in full-stack development to contribute to innovative projects and drive business growth.
 
 #### [View Resume](https://mrpranto.github.io/cv/)
 
 ### Languages
 - PHP 
-- Javascript 
+- Javascript
+- Node Js
 - MySQL
 - NoSql (Couch DB, Mongo DB)
 - HTML
@@ -21,6 +18,7 @@ I am passionate about clean code practices, privacy, best practices, user experi
 ### Frameworks
 - Laravel
 - Codeigniter
+- Express
 - Vue Js
 - React Js
 - Jquery
