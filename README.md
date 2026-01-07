@@ -3,7 +3,7 @@
 <!-- =============================== -->
 
 
-## Hey there! I'm **Mazedur Rahman Pranto**
+# Hey there! I'm **Mazedur Rahman Pranto**
 
 ### 👨‍💻 &nbsp;Senior Full Stack Software Engineer
 
@@ -57,14 +57,6 @@
 ![bKash](https://img.shields.io/badge/-bKash-05122A?style=flat)
 ![SSLCommerz](https://img.shields.io/badge/-SSLCommerz-05122A?style=flat)
 
----
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrpranto&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrpranto&layout=compact&langs_count=8&theme=algolia"/>
-</p>
 
 ---
 
