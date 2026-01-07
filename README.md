@@ -1,64 +1,83 @@
-# [Hi, I'm Mazedur Rahman Pranto 👋](https://mrpranto.github.io/cv/)
-### 👨‍💻 [Full Stack Web Application Developer.](https://mrpranto.github.io/cv/)
+<!-- =============================== -->
+<!--  Mazedur Rahman Pranto | README -->
+<!-- =============================== -->
 
 
-Results-driven software engineer with over 5 years of experience in PHP development, specializing in Laravel for 5+ years and Vue.js for 3+ years. Adept at building scalable, high-performance web applications with modern JavaScript frameworks, including 7 months of hands-on experience with React.js. Passionate about writing clean, maintainable code and continuously improving development processes to enhance efficiency and user experience. Seeking opportunities to leverage my expertise in full-stack development to contribute to innovative projects and drive business growth.
+## Hey there! I'm **Mazedur Rahman Pranto**
 
-#### [View Resume](https://mrpranto.github.io/cv/)
+### 👨‍💻 &nbsp;Senior Full Stack Software Engineer
 
-### Languages
-- PHP 
-- Javascript
-- Node Js
-- MySQL
-- NoSql (Couch DB, Mongo DB)
-- HTML
-- CSS
+---
 
-### Frameworks
-- Laravel
-- Codeigniter
-- Express
-- Vue Js
-- React Js
-- Jquery
-- Bootstrap
+### 👨🏻‍💻 &nbsp;About Me
 
+💡 &nbsp;Senior Full Stack Developer with **6+ years of experience**, specializing in **PHP/Laravel, Vue.js, and MERN stack**.  
+🚀 &nbsp;Experienced in building **POS systems, SaaS platforms, microservices, and offline-first applications**.  
+🧠 &nbsp;Strong background in **RESTful APIs**, performance optimization, and scalable system design.  
+🔌 &nbsp;Hands-on experience with **payment gateways, third-party APIs, and cloud deployments**.  
+✉️ &nbsp;Reach me at **prantoabir1@gmail.com**  
+📄 &nbsp;View my **[Portfolio / CV](https://mrpranto.github.io/cv/)**
 
-### Programming Tools:
-- GIT
-- PHPUnit
-- Composer 
-- Docker
-- Jira
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
+---
 
-## 💻 Skills & Experiance
+### 🛠 &nbsp;Tech Stack
 
-![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=for-the-badge)
-![Laravel Badge](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff&style=for-the-badge)
-![CodeIgniter Badge](https://img.shields.io/badge/CodeIgniter-EF4223?logo=codeigniter&logoColor=fff&style=for-the-badge)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
-![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
-![VUE Badge](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=for-the-badge)
-![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
-![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge)
-![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=for-the-badge)
-![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)
-![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
-![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
-<br>
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)
+![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vuedotjs)
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-05122A?style=flat&logo=nuxtdotjs)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=nextdotjs)
+![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)
+![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery)
+![Alpine.js](https://img.shields.io/badge/-Alpine.js-05122A?style=flat&logo=alpinedotjs)
+![Dexie.js](https://img.shields.io/badge/-Dexie.js-05122A?style=flat&logo=indexeddb)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
+![CouchDB](https://img.shields.io/badge/-CouchDB-05122A?style=flat&logo=apachecouchdb)
+![IndexedDB](https://img.shields.io/badge/-IndexedDB-05122A?style=flat&logo=indexeddb)
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonaws)
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
+![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=githubactions)
+![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-05122A?style=flat&logo=bitbucket)
+![Stripe](https://img.shields.io/badge/-Stripe-05122A?style=flat&logo=stripe)
+![PayPal](https://img.shields.io/badge/-PayPal-05122A?style=flat&logo=paypal)
+![Twilio](https://img.shields.io/badge/-Twilio-05122A?style=flat&logo=twilio)
+![bKash](https://img.shields.io/badge/-bKash-05122A?style=flat)
+![SSLCommerz](https://img.shields.io/badge/-SSLCommerz-05122A?style=flat)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrpranto&layout=compact&theme=dark)
+---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrpranto&theme=dark&show_icons=true) 
+### ⚙️ &nbsp;GitHub Analytics
 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrpranto&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrpranto&layout=compact&langs_count=8&theme=algolia"/>
+</p>
 
+---
 
-## ☕ Connect with me!
-[<img src='https://camo.githubusercontent.com/2d1ffa69dd491ebeca01b2098cf8233dd09950ff5895abccd5b455ca442abc59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d3138373746323f7374796c653d666f722d7468652d6261646765266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465' alt='facebook' height='30'>](https://www.facebook.com/pranto420840)   [<img src='https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465' alt='linkedin' height='30'>](https://www.linkedin.com/in/mrpranto/)  
+### 🤝🏻 &nbsp;Connect with Me
 
-## 📧 For Business Inquiries 
-✅  ► prantoabir1@gmail.com
+<p align="center">
+<a href="https://mrpranto.github.io/cv/"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mrpranto/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:prantoabir1@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/mrpranto"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+<a href="https://www.facebook.com/pranto420840"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
+</p>
+
+---
+
+⭐ *Senior Full Stack Engineer building scalable products, POS systems, and high-impact SaaS platforms.*
