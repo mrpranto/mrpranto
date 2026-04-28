@@ -16,7 +16,8 @@
 🧠 &nbsp;Strong background in **RESTful APIs**, performance optimization, and scalable system design.  
 🔌 &nbsp;Hands-on experience with **payment gateways, third-party APIs, and cloud deployments**.  
 ✉️ &nbsp;Reach me at **prantoabir1@gmail.com**  
-📄 &nbsp;View my **[Portfolio / CV](https://mrpranto.github.io/cv/)**
+📄 &nbsp;View my **[CV](https://mrpranto.github.io/cv/)**
+📄 &nbsp;View my **[Portfolio](https://pranto.dev)**
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -63,7 +64,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://mrpranto.github.io/cv/"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://pranto.dev"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/mrpranto/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:prantoabir1@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/mrpranto"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
