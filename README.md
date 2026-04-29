@@ -5,7 +5,7 @@
 
 # Hey there! I'm **Mazedur Rahman Pranto**
 
-### 👨‍💻 &nbsp;Senior Full Stack Software Engineer
+### 👨‍💻 &nbsp;Senior Full Stack Developer
 
 ---
 
